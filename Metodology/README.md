@@ -1,8 +1,6 @@
 # Research on Image Recognition of Tomato Leaf Diseases based on Improved AlexNet Model
 
-Metode dan Metodologi yang digunakan dalam jurnal berjudul *"Research on image recognition of tomato leaf diseases based on improved AlexNet model"* adalah sebagai berikut:
-
-# Metode Penelitian
+Metodologi yang digunakan dalam jurnal berjudul *"Research on image recognition of tomato leaf diseases based on improved AlexNet model"* adalah sebagai berikut:
 
 ## 1. Datasets
 Penelitian ini menggunakan dataset gambar daun tomat dari *AI Challenger Crop Disease Dataset 2018*, yang mencakup 8 jenis penyakit daun tomat dan daun yang sehat. Dataset terdiri dari total 13.038 gambar yang kemudian diperbesar menjadi 18.363 gambar menggunakan teknik augmentasi gambar seperti translasi, rotasi, pemotongan, flipping, dan transformasi perspektif.
@@ -21,10 +19,3 @@ Pembelajaran transfer diterapkan dengan cara memodifikasi lapisan terakhir dari 
 
 ## 6. Evaluasi dan Eksperimen
 Penelitian ini mengevaluasi performa model berdasarkan metrik seperti akurasi, recall, precision, dan nilai F1. Percobaan juga dilakukan untuk membandingkan pengaruh berbagai metode fusi fitur (fusi seri, paralel, dan berbobot) terhadap kinerja pengenalan gambar.
-
-
-# Metodologi Penelitian
-
-Metodologi penelitian yang digunakan dalam jurnal ini adalah **metode kuantitatif**. Penelitian ini berfokus pada pengolahan data citra daun tomat dengan menggunakan teknik pemrosesan gambar dan jaringan saraf tiruan (*neural networks*), yang menghasilkan pengukuran berupa angka-angka seperti tingkat akurasi, recall, precision, dan nilai F1.
-
-Penelitian ini juga menggunakan eksperimen terkontrol untuk mengevaluasi kinerja model yang dikembangkan, serta melakukan perbandingan antara berbagai metode ekstraksi fitur dan model yang digunakan. Hasilnya dilaporkan dalam bentuk statistik dan metrik kuantitatif, yang merupakan karakteristik utama dari metode kuantitatif.
