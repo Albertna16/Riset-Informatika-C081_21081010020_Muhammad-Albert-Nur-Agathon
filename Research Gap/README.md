@@ -1,6 +1,6 @@
-# Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur Alexnet
+# Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16
 
-Berdasarkan penelitian kecil dengan judul "Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur Alexnet", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
+Berdasarkan penelitian kecil dengan judul "Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
 
 1. **Keterbatasan pada Lingkungan Eksperimental**  
    Penelitian ini dilakukan dalam lingkungan eksperimental di mana gambar daun penyakit tomat diambil dengan latar belakang yang sudah dihilangkan. Oleh karena itu, pengujian model ini dalam lingkungan alami, yang mungkin memiliki banyak gangguan dan variasi, masih perlu dilakukan untuk meningkatkan kegunaan praktis dan penerapan model ini di lapangan.
