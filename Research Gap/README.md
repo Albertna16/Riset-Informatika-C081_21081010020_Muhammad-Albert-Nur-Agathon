@@ -1,6 +1,6 @@
-# Research Gap dari Jurnal "Research on Image Recognition of Tomato Leaf Diseases Based on Improved AlexNet Model"
+# Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur Alexnet
 
-Berdasarkan jurnal "Research on image recognition of tomato leaf diseases based on improved AlexNet model", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
+Berdasarkan penelitian kecil dengan judul "Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur Alexnet", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
 
 1. **Keterbatasan pada Lingkungan Eksperimental**  
    Penelitian ini dilakukan dalam lingkungan eksperimental di mana gambar daun penyakit tomat diambil dengan latar belakang yang sudah dihilangkan. Oleh karena itu, pengujian model ini dalam lingkungan alami, yang mungkin memiliki banyak gangguan dan variasi, masih perlu dilakukan untuk meningkatkan kegunaan praktis dan penerapan model ini di lapangan.
