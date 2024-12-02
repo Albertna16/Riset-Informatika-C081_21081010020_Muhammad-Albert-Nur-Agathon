@@ -1,12 +1,12 @@
-# Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16
+# Pengembangan Aplikasi Alquran Online Dengan Memanfaatkan REST API
 
-Berdasarkan penelitian kecil dengan judul "Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
+Berdasarkan penelitian dengan judul diatas, saya membuat penelitian lanjutan dengan judul "Implementasi Arsitektur MVVM dan State Management Provider Pada Aplikasi Al-Qur’an Digital Berbasis Offline Mode", berikut adalah beberapa *research gap* yang dapat diidentifikasi:
 
-1. **Keterbatasan pada Lingkungan Eksperimental**  
-   Penelitian ini dilakukan dalam lingkungan eksperimental di mana gambar daun penyakit tomat diambil dengan latar belakang yang sudah dihilangkan. Oleh karena itu, pengujian model ini dalam lingkungan alami, yang mungkin memiliki banyak gangguan dan variasi, masih perlu dilakukan untuk meningkatkan kegunaan praktis dan penerapan model ini di lapangan.
+1. **Efisiensi Pengembangan dengan Arsitektur MVVM**  
+   Penerapan arsitektur MVVM (Model-View-ViewModel) dalam pengembangan aplikasi semakin penting karena mampu meningkatkan efisiensi dalam berbagai aspek, seperti pengembangan, pengelolaan data, dan kemudahan maintenance. Dengan arsitektur ini, pengembang dapat memisahkan logika bisnis dan antarmuka pengguna secara lebih terstruktur, sehingga memudahkan proses pembaruan, perbaikan bug, dan pengembangan fitur baru. Hal ini sangat relevan terutama dalam proyek berskala besar atau aplikasi yang membutuhkan pembaruan dan pengelolaan berkelanjutan.
 
-2. **Keterbatasan Pada Pengakuan Penyakit Tunggal**  
-   Model saat ini hanya mempertimbangkan pengenalan penyakit tunggal pada satu daun. Dalam praktiknya, lebih dari satu jenis penyakit dapat terjadi secara bersamaan pada satu daun. Penelitian lebih lanjut diperlukan untuk mengembangkan kemampuan model dalam mengenali beberapa penyakit pada satu daun secara bersamaan.
+2. **Tantangan Fitur Mode Offline**  
+   Mode offline dalam aplikasi digital memiliki tantangan tersendiri, terutama dalam menyediakan fitur-fitur canggih seperti pencarian yang kompleks dan pengelolaan bookmark. Hingga saat ini, belum banyak penelitian yang mengkaji bagaimana mode offline dapat mendukung fitur-fitur tersebut dengan tetap mempertahankan kecepatan dan keakuratan. Eksplorasi lebih lanjut sangat diperlukan untuk memahami bagaimana teknologi dan pendekatan tertentu dapat menjawab tantangan ini, khususnya dalam konteks aplikasi yang memerlukan aksesibilitas tinggi tanpa bergantung pada koneksi internet.
 
-3. **Kurangnya Fokus Pada Perkembangan dan Perubahan Penyakit**  
-   Penelitian ini belum memperhatikan perkembangan dan perubahan penyakit seiring waktu, yang penting untuk mendeteksi penyakit pada tahap awal dan mengambil tindakan yang tepat secara tepat waktu. Oleh karena itu, penelitian di masa depan dapat berfokus pada pemantauan perkembangan penyakit untuk memberikan deteksi dini dan langkah pencegahan yang lebih efektif.
+3. **Integrasi Flutter, MVVM, dan Provider untuk Aplikasi Digital**
+   Penelitian ini memberikan peluang untuk mengeksplorasi kombinasi teknologi Flutter, arsitektur MVVM, dan state management menggunakan Provider dalam menciptakan aplikasi Al-Qur’an digital yang mendukung mode offline. Kombinasi ini bertujuan untuk menciptakan aplikasi yang tidak hanya fungsional dan mudah digunakan oleh pengguna, tetapi juga efisien dalam pengembangan dan lintas platform. Dengan pendekatan ini, aplikasi diharapkan mampu menjaga performa optimal, menyediakan fitur-fitur yang kaya, serta memudahkan pengembang dalam proses pengelolaan dan pengembangan lebih lanjut.
