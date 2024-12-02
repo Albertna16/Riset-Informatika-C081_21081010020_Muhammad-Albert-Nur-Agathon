@@ -1,6 +1,6 @@
-# Research on Image Recognition of Tomato Leaf Diseases based on Improved AlexNet Model
+# Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16
 
-Metodologi yang digunakan dalam jurnal berjudul *"Research on image recognition of tomato leaf diseases based on improved AlexNet model"* adalah sebagai berikut:
+Metodologi yang digunakan dalam Penelitian Kecil berjudul *"Deteksi Penyakit Daun Tomat Dengan Menggunakan Arsitektur VGG16"* adalah sebagai berikut:
 
 ## 1. Datasets
 Penelitian ini menggunakan dataset gambar daun tomat dari *AI Challenger Crop Disease Dataset 2018*, yang mencakup 8 jenis penyakit daun tomat dan daun yang sehat. Dataset terdiri dari total 13.038 gambar yang kemudian diperbesar menjadi 18.363 gambar menggunakan teknik augmentasi gambar seperti translasi, rotasi, pemotongan, flipping, dan transformasi perspektif.
